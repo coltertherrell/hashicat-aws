@@ -11,7 +11,7 @@
     "relationships": {
       "workspace": {
         "data": {
-          "id":"REPLACE_WITH_WORKSPACE_ID",
+          "id":"ws-PAgcvN7Pcu17hUrS",
           "type":"workspaces"
         }
       }
